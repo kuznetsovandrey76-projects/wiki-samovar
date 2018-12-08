@@ -1,0 +1,1 @@
+запуск: `bundle exec jekyll serve`
